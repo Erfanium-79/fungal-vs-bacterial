@@ -1,0 +1,9 @@
+/.vscode
+/NVIDIA-Linux-x86_64-550.107.02.run
+/bct_fng
+/cuda-repo-wsl-ubuntu-12-6-local_12.6.0-1_amd64.deb
+/cudnn-local-repo-ubuntu2204-9.3.0_1.0-1_amd64.deb
+/temp.py
+/test_cuda
+/test_cuda.cu
+/wget-log
